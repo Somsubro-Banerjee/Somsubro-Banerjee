@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Rust, Flutter, MySQL, Postgres, Frontend, Backend, React and cloud services like Azure**
 
-- 📫 How to reach me **somsubrob@gmal.com**
+- 📫 How to reach me **somsubrob@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
