@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **building libraries in Rust to support Azure SAAS and PAAS services**
 
-- 🌱 I’m currently learning **Rust, Flutter and Azure**
+- 🌱 I’m currently learning **Rust and Azure**
 
-- 💬 Ask me about **Rust, Flutter and Azure**
+- 💬 Ask me about **Rust, Flutter, MySQL, Postgres, Frontend, Backend, React and cloud services like Azure**
 
 - 📫 How to reach me **somsubrob@gmal.com**
 
